@@ -1,3 +1,3 @@
-def FunctionName() {
+def functionName() {
     echo "Function in sharedLib1"
 }
